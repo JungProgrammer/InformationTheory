@@ -1,0 +1,16 @@
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\bin\Debug\net5.0\Entropia.exe
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\bin\Debug\net5.0\Entropia.deps.json
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\bin\Debug\net5.0\Entropia.runtimeconfig.json
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\bin\Debug\net5.0\Entropia.runtimeconfig.dev.json
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\bin\Debug\net5.0\Entropia.dll
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\bin\Debug\net5.0\ref\Entropia.dll
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\bin\Debug\net5.0\Entropia.pdb
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.csproj.AssemblyReference.cache
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.AssemblyInfoInputs.cache
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.AssemblyInfo.cs
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.csproj.CoreCompileInputs.cache
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.dll
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\ref\Entropia.dll
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.pdb
+C:\Users\Pufyrka\Desktop\Entropia\Entropia\obj\Debug\net5.0\Entropia.genruntimeconfig.cache
